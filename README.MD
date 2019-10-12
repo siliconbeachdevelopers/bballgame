@@ -3,6 +3,9 @@
 
 ## Lakers vs Celtics
 
+Click here to play game: https://siliconbeachdevelopers.github.io/bballgame/
+
+
 Cards consist of individual NBA players cards. 
 
 Lakers and celtics each have 12 player cards in their stack each total. Including 3 wild cards on each side.
@@ -42,7 +45,7 @@ If a player flips a dunk card. "you got dunked on!" opposing players card is nul
 At the end of four quarters a box will pop up on the screen showing the final score for each team.
 
 
-Git Hub Repository https://github.com/siliconbeachdevelopers
+
 
 
 
