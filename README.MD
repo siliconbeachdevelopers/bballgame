@@ -3,7 +3,7 @@
 
 ## Lakers vs Celtics
 
-Click here to play game: https://siliconbeachdevelopers.github.io/bballgame/
+Click here to play game:  https://siliconbeachdevelopers.github.io/lakers-vs-celtics-game/
 
 
 Cards consist of individual NBA players cards. 
